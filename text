@@ -1,0 +1,17 @@
+\begin{table}[h]
+\caption{Comparision Table}
+  \centering
+  \begin{tabular}{|p{2.5cm}|p{1cm}|p{4cm}|p{6cm}|}
+    \hline
+    \textbf{Author} & \textbf{Year} & \textbf{Approach} & \textbf{Description} \\
+    \hline
+    Jakovic et al \cite{jakovic2021chatbot} & 2021 & NLP, RNN, Machine Learning, Scikit-learn, Rule-Based Approach & Revolutionizing citizen-government interaction, Analyzing the architecture, NLP algorithms. \\
+    \hline
+    Adarsh R et al \cite{hegde2023automated} & 2023 & RASA chatbot framework,NLP, RNN and SVM algorithms & Seamlessly blending context-aware dialogue management, empowers the system to understand, respond, and learn from user interactions.\\
+    \hline
+    Narasiman et al \cite{narasiman2020indquery} & 2020 & UI input, Utilize Pandas, NLP, NumPy,
+Scikit Learn, & Including natural language processing (NLP), Support Vector Machine algorithms(SVM), the smart chatbot ensures efficient complaint categorization, allowing for prompt resolution.\\
+    \hline
+  \end{tabular}
+  \label{tab:simple}
+\end{table}
